@@ -4,7 +4,7 @@ matrix pascal is scientific LINUX PASCAL EDITION.complete with linux only RTL/CR
 -asm supports interupts and call and all things u need.
 - SOURCE CODE IS PORTED TO C
 - COMMANDLINE ARGS IS UPDATED.
-- SUPPORT FOR MYSQL.
+- SUPPORT FOR SQLITE3.
 - a.i. building blocks
 - neural network building blocks =a.i. brain
 - math supports extensive of university
