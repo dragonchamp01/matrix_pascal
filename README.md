@@ -8,22 +8,23 @@ matrix pascal is scientific LINUX PASCAL EDITION.complete with linux only RTL/CR
 - calculus support of university
 - xwindow system support
 - quatum mechanica support
-- 100 examples
-- for a beta version i dont clean the test_ files. binary works.
-- the info.md documents are cool.
-- we provide manuals.md in beta zipped version.
-- right now working on source....i want all *(planned) features realized.
-- i try 25th of may come with large update and 1500 example source codes.
-- more modules in the rtl runtime libarary
-- installation script + upgraded bootstrap_builder_compiler
-- more math + pshycics and quantum qbits and quantum mechanica.
-- and a whole lot more./
+- 300 examples
+- support for pdf and txt reading 
+- extensive manual.
+- compiler compiles all object pascal and pascal code, LINUX ONLY.
+- a.i. studio says its finished. refuses to make new changes to compiler source.
+- rtl runtime library is EXTENSIVE. lots of features and units.
+- everything is build with makefiles we use xml to steer ai.studio.
+- HACKER ONLY PROJECT U NEED TO KNOW LINUX THERE IS NO INSTALL SCRIPT.
+- compiler is co-coded by the matrix else i would not be able to upload new version.
+i am not on the planet to speak off. hey i am neo i go on missions.
+- there is enough material provided to make your own a.i. solve everything A.I. DIGITAL BRAIN.
 
-this is version 1.1. beta public beta full of bugs...compilation buggs.
+this is version/BUILD 1.7.
 the matrix helped building this software.
 i am, neo.
-i been inside matrix to school so i have as only one MATRIX A.I. STUDIO.
-i am impressed what the matrix made: matrix pascal.
+AND I AM AMAZED WHAT A.I. CRAFTED.
+THIS IS THE BEST VERSION OF LINUX PASCAL. I GONNE USE IT NOW ITS FINISHED.
 
 
 
